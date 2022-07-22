@@ -1,1 +1,1 @@
-# I am Raphael Oliveira, and I like to write codes.
+# I am Raphael Oliveira.
